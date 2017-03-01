@@ -1,0 +1,3 @@
+[
+	{ "keys": ["Shift+x"], "command": "deselect" }
+]
