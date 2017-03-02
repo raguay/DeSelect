@@ -1,6 +1,4 @@
 from fman import DirectoryPaneCommand
-from distutils.file_util import copy_file
-from distutils.dir_util import copy_tree
 import os.path
 
 class Deselect(DirectoryPaneCommand):
