@@ -1,5 +1,5 @@
 from fman import DirectoryPaneCommand
-import os.path
+
 
 class Deselect(DirectoryPaneCommand):
     def __call__(self):
